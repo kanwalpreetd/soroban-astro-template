@@ -20,6 +20,6 @@
   ],
   "devDependencies": {
     "dotenv": "^16.4.1",
-    "glob": "^10.4.1"
+    "glob": "^11.0.0"
   }
 }
